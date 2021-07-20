@@ -1,0 +1,13 @@
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\bin\Debug\netcoreapp3.1\fireengineinventoryv2.exe
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\bin\Debug\netcoreapp3.1\fireengineinventoryv2.deps.json
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\bin\Debug\netcoreapp3.1\fireengineinventoryv2.runtimeconfig.json
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\bin\Debug\netcoreapp3.1\fireengineinventoryv2.runtimeconfig.dev.json
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\bin\Debug\netcoreapp3.1\fireengineinventoryv2.dll
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\bin\Debug\netcoreapp3.1\fireengineinventoryv2.pdb
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\obj\Debug\netcoreapp3.1\fireengineinventoryv2.csprojAssemblyReference.cache
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\obj\Debug\netcoreapp3.1\fireengineinventoryv2.AssemblyInfoInputs.cache
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\obj\Debug\netcoreapp3.1\fireengineinventoryv2.AssemblyInfo.cs
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\obj\Debug\netcoreapp3.1\fireengineinventoryv2.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\obj\Debug\netcoreapp3.1\fireengineinventoryv2.dll
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\obj\Debug\netcoreapp3.1\fireengineinventoryv2.pdb
+C:\Users\Arthur\Documents\repositories\fireengineinventoryv2\obj\Debug\netcoreapp3.1\fireengineinventoryv2.genruntimeconfig.cache
